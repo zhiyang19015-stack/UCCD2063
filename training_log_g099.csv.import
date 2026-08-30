@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://vxo4786habk3"
+
+[deps]
+
+files=["res://training_log_g099.return.translation", "res://training_log_g099.steps.translation", "res://training_log_g099.epsilon.translation", "res://training_log_g099.end.translation", "res://training_log_g099.states.translation"]
+
+source_file="res://training_log_g099.csv"
+dest_files=["res://training_log_g099.return.translation", "res://training_log_g099.steps.translation", "res://training_log_g099.epsilon.translation", "res://training_log_g099.end.translation", "res://training_log_g099.states.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true

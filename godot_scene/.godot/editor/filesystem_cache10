@@ -1,0 +1,35 @@
+78098b89c88a74ebe8c20117b8754620
+::res://::1788004655
+icon.svg::CompressedTexture2D::8439468370206232468::1787809319::1787809319::1::::<><><>0<>0<>d69c3c2129eccedaea97ff0d23cc256e<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
+::res://assets/::1787809324
+::res://assets/images/::1787809324
+::res://assets/images/Collectibles/::1787809324
+Apple.png::CompressedTexture2D::2986956635822503767::1787809324::1787809324::1::::<><><>0<>0<>25ca6e7dd3721ff83ff26129787fafe0<>res://.godot/imported/Apple.png-34cb39577f9d237345a97efffc395dc8.ctex::
+Collected.png::CompressedTexture2D::3929291348687475768::1787809324::1787809324::1::::<><><>0<>0<>6a10b7813d46bc6001d3a5e45f4fe136<>res://.godot/imported/Collected.png-54590556835bf33337365537fb86391e.ctex::
+::res://assets/images/player/::1787809324
+Hit (32x32).png::CompressedTexture2D::4442364578024766983::1787809324::1787809324::1::::<><><>0<>0<>aeb380308c2bef4a9771f47b31f75ff7<>res://.godot/imported/Hit (32x32).png-87d7836b8c3f40eee42425bb00ab9a06.ctex::
+Idle (32x32).png::CompressedTexture2D::8905315696097481699::1787809324::1787809324::1::::<><><>0<>0<>119f2174da882f5af668d13ddee40143<>res://.godot/imported/Idle (32x32).png-80b5829e967944c7bbf5958bc74c9b27.ctex::
+Jump (32x32).png::CompressedTexture2D::7752331588200440719::1787809324::1787809324::1::::<><><>0<>0<>b20ac3161500d90a2cdd9d788fea5c8a<>res://.godot/imported/Jump (32x32).png-fc3f0e4aba12c68de7acb914dfbd3eda.ctex::
+Run (32x32).png::CompressedTexture2D::3588693227623577671::1787809324::1787809324::1::::<><><>0<>0<>51dafeca26a4f0eef00ab1b22c8b4da5<>res://.godot/imported/Run (32x32).png-5c6047784ed0240cec5ef5a0fef7b485.ctex::
+::res://assets/images/Snail/::1787809324
+Walk (38x24).png::CompressedTexture2D::609214016968505831::1787809324::1787809324::1::::<><><>0<>0<>37d55eef48a8b90fc30effe5a36a355f<>res://.godot/imported/Walk (38x24).png-cc2214ae5ff83eba80e58ef6c7120c0e.ctex::
+::res://assets/images/Tilemap/::1787809324
+Terrain (16x16).png::CompressedTexture2D::8293567510196804831::1787809324::1787809324::1::::<><><>0<>0<>e88f55b2bda2dc257f6bd9743c8e5291<>res://.godot/imported/Terrain (16x16).png-1db6c4f451bad98efb8c231dcaf2c1e4.ctex::
+::res://assets/sounds/::1787809324
+collect_apple.wav::AudioStreamWAV::8671045216774799819::1787809324::1787809324::1::::<><><>0<>0<>848572dd0a449ac085ffe38631c0c319<>res://.godot/imported/collect_apple.wav-a192fbe7570c07e26a2dd96b167269b7.sample::
+death.wav::AudioStreamWAV::9017687793818318169::1787809324::1787809324::1::::<><><>0<>0<>783612aba3128d39b9d1dfd8f69c767a<>res://.godot/imported/death.wav-75b3b960b42f4ac0e66fdefe9fd48ee1.sample::
+jump.wav::AudioStreamWAV::7019866845089694695::1787809324::1787809324::1::::<><><>0<>0<>b90a0987983701584b4d165272738161<>res://.godot/imported/jump.wav-395b727cde98999423d5c020c9c3492f.sample::
+::res://scene/::1787818565
+apple.tscn::PackedScene::4237465157555516124::1787809325::0::1::::<><><>0<>0<><>::uid://bpv32nyti2xdo::::res://scripts/apple.gd<>uid://bv8m4by05qs4w::::res://assets/images/Collectibles/Collected.png<>uid://bis50e0cm1ka6::::res://assets/images/Collectibles/Apple.png<>uid://dvsk33eqfb0pr::::res://assets/sounds/collect_apple.wav
+main.tscn::PackedScene::3322122833880169103::1787811110::0::1::::<><><>0<>0<><>::uid://ju2c6b062nhk::::res://scripts/main.gd<>uid://mbbo5qdyiho4::::res://scene/level/level_root.tscn
+player.tscn::PackedScene::4944983605620870035::1787809325::0::1::::<><><>0<>0<><>::uid://b4j6dip8t2wjv::::res://assets/images/player/Hit (32x32).png<>uid://d0mu38weyxv6m::::res://scripts/player.gd<>uid://dy42ipgmnbqf8::::res://assets/images/player/Idle (32x32).png<>uid://dipj1esfb4t6n::::res://assets/images/player/Jump (32x32).png<>uid://breniuvt4oju2::::res://assets/images/player/Run (32x32).png<>uid://c7aqgfuy1stdf::::res://assets/sounds/jump.wav<>uid://d1qiaashn5fe4::::res://assets/sounds/death.wav
+snail.tscn::PackedScene::4119251612085685010::1787818565::0::1::::<><><>0<>0<><>::uid://ixdwvywisyqx::::res://assets/images/Snail/Walk (38x24).png<>uid://csnetarwggf1n::::res://scripts/snail.gd
+::res://scene/level/::1787811900
+level_root.tscn::PackedScene::844417820103959733::1787811900::0::1::::<><><>0<>0<><>::uid://dqfp30bitkwjv::::res://assets/images/Tilemap/Terrain (16x16).png<>uid://ccpnfmc54pbh0::::res://scene/player.tscn<>uid://byxnqb5fy688u::::res://scene/snail.tscn<>uid://b1mwoxpblb14c::::res://scene/apple.tscn
+::res://scripts/::1787918644
+apple.gd::GDScript::3484354284085644808::1787918059::0::1::::<>Area2D<><>0<>0<><>::
+main.gd::GDScript::674631709163038676::1787918644::0::1::::<>Node2D<><>0<>0<><>::
+player.gd::GDScript::8940021784634491446::1787917972::0::1::::<>CharacterBody2D<><>0<>0<><>::
+rl_environment.gd::GDScript::432096159321245469::1787917928::0::1::::<>Node<><>0<>0<><>::
+snail.gd::GDScript::6063354288998335909::1787918467::0::1::::<>Area2D<><>0<>0<><>::
+tcp_bridge.gd::GDScript::3450656387379325367::1787811943::0::1::::<>Node<><>0<>0<><>::

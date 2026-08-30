@@ -1,0 +1,19 @@
+[remap]
+
+importer="csv_translation"
+type="Translation"
+uid="uid://c0pvxiejwh8jk"
+
+[deps]
+
+files=["res://Additional_Material/python_file_with_other_file/training_log.return.translation", "res://Additional_Material/python_file_with_other_file/training_log.steps.translation", "res://Additional_Material/python_file_with_other_file/training_log.epsilon.translation", "res://Additional_Material/python_file_with_other_file/training_log.end.translation"]
+
+source_file="res://Additional_Material/python_file_with_other_file/training_log.csv"
+dest_files=["res://Additional_Material/python_file_with_other_file/training_log.return.translation", "res://Additional_Material/python_file_with_other_file/training_log.steps.translation", "res://Additional_Material/python_file_with_other_file/training_log.epsilon.translation", "res://Additional_Material/python_file_with_other_file/training_log.end.translation"]
+
+[params]
+
+compress=1
+delimiter=0
+unescape_keys=false
+unescape_translations=true
